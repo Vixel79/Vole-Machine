@@ -39,7 +39,6 @@ This project models a basic CPU with the following core modules:
 | `MainUI.cpp` / `MainUI.h` | User interface for interaction and visualization |  
 | `main.cpp` | Entry point, initializes system and runs menu |
 
-*(Note: File names are based on your provided files; adapt as needed.)*
 
 ---
 
@@ -75,17 +74,3 @@ This project models a basic CPU with the following core modules:
 - Always keep the README updated to reflect code changes for consistency.
 
 ---
-
-## Contributing & License
-
-Contributions are welcome! Please fork the repository, create feature branches, and submit pull requests.
-
-This project is licensed under the MIT License. See `LICENSE` for details.
-
----
-
-## References & Resources
-
-- [Write the Docs: How to write software documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs.html)
-- [Dev.to: Start a project by the README](https://dev.to/vepo/start-a-project-by-the-readme-4c49)
-- [Reddit: GitHub README Templates](https://www.reddit.com/r/programming/comments/l0mgcy/github_readme_templates_creating_a_good_readme_is/)
